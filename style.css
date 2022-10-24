@@ -17,3 +17,12 @@ p{
     height: 20%;
     border: 2px;
 }
+
+.itens{
+    font-style: italic
+}
+
+.beneficios{
+    background-color:aqua
+    text-align:black
+}
