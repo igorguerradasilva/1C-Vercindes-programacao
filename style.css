@@ -29,3 +29,10 @@ p{
     text-align: left;
     font-size: 20px;
 }
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    margin: 3%;
+    list-style: none;
+}
